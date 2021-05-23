@@ -14,10 +14,12 @@ Add the folder `Matheus` inside `/app/code/community/` and add the file `Matheus
 ## How to use
 After installation a new submenu named `Export Categories` will be created at the menu `Catalog` in your admin panel. Click in it to enter the module's page. 
 
+![image](https://user-images.githubusercontent.com/55641441/119249688-f4a33500-bb70-11eb-95d5-b23cb0bfc77c.png)
 
 
 Now, you just need to select the format of the file and press the button `Export` to generate the sheet, that will be automatically downloaded in your browser, containing the meaningful informations about the categories in your store.
 
+![image](https://user-images.githubusercontent.com/55641441/119249666-c887b400-bb70-11eb-8ae2-8e4086acde91.png)
 
 
 ## Output file
