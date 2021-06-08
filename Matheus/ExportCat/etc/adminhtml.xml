@@ -19,9 +19,10 @@
             <children>
                 <catalog module="matheus_exportcat" translate="title">
                     <children>
-                        <set_time translate="title">
+			 <matheus_exportcat module="matheus_exportcat" translate="title">
                             <title>Export Categories</title>
-                        </set_time>
+			    <sort_order>10</sort_order>
+		         </matheus_exportcat>
                     </children>
                 </catalog>  
             </children>
